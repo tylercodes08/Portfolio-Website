@@ -4,7 +4,7 @@ const About = (props) => {
   return (
     <>
       <div className={props.className}>
-        <h>About Me</h>
+        <h>who is tyler?</h>
         <p>
           Hi, I’m <span>Tyler</span>, a high school student from Brooklyn, NY.<br></br>I
           love math, coding, and graphics design. I hope you<br></br>enjoy my work.

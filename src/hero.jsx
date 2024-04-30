@@ -3,7 +3,7 @@ import './hero.css'
 const Hero = (props) => {
   return (
     <p className={props.className}>
-      Welcome to<br></br><span>Tyler's<br></br>Portfolio</span><br></br>Website
+      hey, I'm <span>Tyler</span>
     </p>
   );
 };
